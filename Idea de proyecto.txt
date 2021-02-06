@@ -1,0 +1,14 @@
+Hola Pacoo!! :)
+
+Te comento mi idea de proyecto. Es una idea real, para llevar a cabo en un futuro,
+cuando estuviera todo a punto.
+La idea es hacer la página web de una guardería de perros. Te cuento un poco por encima.
+Tendría información acerca de la guardería, las actividades, los horarios, los precios...
+Habría un login para registrarse y poder reservar. Se reservarían las fechas y las horas
+deseadas y con un carrito se irían guardando.
+Luego a la hora de pagar no tengo ni idea de cómo hacerlo, aunque supongo que algo nos
+explicarás, pero no sé. Pero supongo que se puede hacer, no?
+Y poco más. A la hora de pagar se podrían pagar días sueltos, horas sueltos o estaría
+también la opción de comprar bonos.
+
+Base de datos: Usuarios/Clientes, Perros, Reservas (cod_usu, cod_perro, fecha, hora), Bonos

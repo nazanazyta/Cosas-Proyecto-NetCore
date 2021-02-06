@@ -1,0 +1,15 @@
+* Proyecto
+	- Clase en Helpers Corrector de cadenas
+	- HOME
+	- NOSOTROS
+	- Carrito (paseos/bonos)
+	- Decidir forma de cobrar y reservar
+	- Budget para saber cuántos elementos tenemos
+	  en el carrito (session["empleados"].count)
+	  Razor -> Partial Views
+* Clase
+	- Buscar paginación (también con linq)
+	- PSI Bridge. Probar requisitos de cámara
+	- Programa de exámenes en servidor
+	  y en local
+	- Llamadas asíncronas
